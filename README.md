@@ -1,2 +1,2 @@
 # hello-world
-Exploring github
+Testing and exploring github
